@@ -6,7 +6,7 @@
  * and provide an error message.
  *
  * @author Your Name Here {@literal <pluf@wfu.edu>}
- * @date Sept. 20, 2020
+ * @date Feb. 12, 2021
  * @assignment Lab 2
  * @course CSC 250
  **/
@@ -14,7 +14,7 @@
 #include <ctype.h>
 #include <stdio.h>
 #define MAX_STRING_SIZE 20
-#define MAX_LIST_SIZE 100
+#define MAX_LIST_SIZE 36
 
 /* a useful struct, if you choose to use it */  
 struct Char_Freq {
