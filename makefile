@@ -1,7 +1,7 @@
 # simple makefile for clang-tidy and compiling
 #
 # Nirre Pluf 
-# 9/20/2020
+# 9/5/2021
 # CSC 250 Lab 2
 
 SOURCE = lab2.c
