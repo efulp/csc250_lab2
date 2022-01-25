@@ -6,7 +6,7 @@
  * and provide an error message.
  *
  * @author Your Name Here {@literal <pluf@wfu.edu>}
- * @date Sept. 5, 2021
+ * @date Jan. 25, 2022
  * @assignment Lab 2
  * @course CSC 250
  **/
@@ -17,7 +17,7 @@
 #define MAX_LIST_SIZE 36
 
 /* a useful struct, if you choose to use it */  
-struct Char_Freq {
+struct CharFreq {
     char ch;
     int count;
 };
