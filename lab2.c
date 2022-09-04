@@ -6,7 +6,7 @@
  * and provide an error message.
  *
  * @author Your Name Here {@literal <pluf@wfu.edu>}
- * @date Jan. 25, 2022
+ * @date Sept. 3, 2022
  * @assignment Lab 2
  * @course CSC 250
  **/
